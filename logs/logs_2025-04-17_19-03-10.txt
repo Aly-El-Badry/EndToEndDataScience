@@ -1,0 +1,2 @@
+2025-04-17 19:03:10,193 Logger initialized and working.
+2025-04-17 19:03:10,228 Loading CSV FILE

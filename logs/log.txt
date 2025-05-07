@@ -1,0 +1,33 @@
+2025-04-17 18:41:59,511 Hello world 
+2025-04-17 18:42:18,011 Hello world 
+2025-04-17 18:42:18,011 ALI ALI 
+2025-04-17 18:44:38,598 matplotlib data path: d:\project\Depi_project\venv\lib\site-packages\matplotlib\mpl-data
+2025-04-17 18:44:38,608 CONFIGDIR=C:\Users\AMIT\.matplotlib
+2025-04-17 18:44:38,618 interactive is False
+2025-04-17 18:44:38,619 platform is win32
+2025-04-17 18:44:38,720 CACHEDIR=C:\Users\AMIT\.matplotlib
+2025-04-17 18:44:38,728 Using fontManager instance from C:\Users\AMIT\.matplotlib\fontlist-v390.json
+2025-04-17 18:49:08,155 test
+2025-04-17 18:49:11,724 test
+2025-04-17 18:53:08,394 test
+2025-04-17 18:53:21,899 test
+2025-04-17 18:53:41,492 test
+2025-04-17 18:54:42,839 Test log message
+2025-04-17 18:55:31,045 Test log message
+2025-04-17 18:56:50,106 Logger initialized and working.
+2025-04-17 18:56:56,011 Logger initialized and working.
+2025-04-17 18:57:25,660 Logger initialized and working.
+2025-04-17 18:58:09,670 Loading CSV FILE
+2025-04-17 18:58:09,673 [Errno 2] No such file or directory: 'data/daycsv'
+2025-04-17 18:58:33,556 Loading CSV FILE
+2025-04-17 18:58:33,557 [Errno 2] No such file or directory: 'data/day.csv'
+2025-04-17 18:58:40,030 Loading CSV FILE
+2025-04-17 18:58:40,032 [Errno 2] No such file or directory: 'data/day.csv'
+2025-04-17 18:58:47,417 Loading CSV FILE
+2025-04-17 18:58:47,417 [Errno 2] No such file or directory: 'data/day.csv'
+2025-04-17 18:58:55,236 Loading CSV FILE
+2025-04-17 18:58:55,237 [Errno 2] No such file or directory: 'data/day.csv'
+2025-04-17 18:59:16,293 Loading CSV FILE
+2025-04-17 18:59:16,294 [Errno 2] No such file or directory: 'data/day.csv'
+2025-04-17 18:59:22,957 Loading CSV FILE
+2025-04-17 18:59:22,958 [Errno 2] No such file or directory: 'data/day.csv'
